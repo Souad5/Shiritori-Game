@@ -4,8 +4,7 @@ Certainly! Here's a human-written GitHub README for your **Multiplayer Shiritori
 
 # Multiplayer Shiritori Game
 
-![Shiritori Game Screenshot](https://shirighori.vercel.app/preview.png)
-
+![Shiritori Game Screenshot](https://i.postimg.cc/1XQnxj5N/Screenshot-2025-08-30-214225.png)
 ## 🎮 Live Demo
 
 Experience the game live here: [https://shirighori.vercel.app](https://shirighori.vercel.app)
