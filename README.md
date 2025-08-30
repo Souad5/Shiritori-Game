@@ -38,7 +38,7 @@ Shiritori (しりとり) is a Japanese word game where players take turns saying
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Souad5/shiritori-game.git
+git clone https://github.com/Souad5/Shiritori-Game.git
 cd shiritori-game
 npm install
 npm start
